@@ -1,0 +1,44 @@
+﻿body {
+    direction: rtl;
+    background-color: seashell;
+    font-size: 20px;
+    font-family: Arial;
+}
+
+#titles {
+    margin-right: 545px;
+    color: yellowgreen
+}
+
+h1 {
+    margin-right: 10%;
+}
+
+#labels {
+    margin-top: 50px;
+    margin-right: 45%;
+    font-size: 28px;
+}
+
+#newGame {
+    margin-right: 44%;
+}
+
+button {
+    margin-right: 70px;
+    font-size: large;
+}
+
+
+input {
+    margin-left: 40%;
+}
+
+#enterOfPlay {
+    margin-top: 20px;
+    margin-right: 48.5%;
+}
+
+#newU {
+    margin-right: 46%;
+}

@@ -1,0 +1,57 @@
+﻿/* div{
+text-align: center;
+/* img{
+ width: 400px;
+    margin-top: 50px;
+    display: inline-block;
+}    */
+/* p{ */
+/* color: black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background:white url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Gnome_Mines.png/250px-Gnome_Mines.png") no-repeat;
+
+    
+    direction: rtl;
+
+  
+}  */
+body, html {
+    height: 100%;
+    direction: rtl;
+}
+
+#enter {
+    font-size: xx-large;
+    background-color: black;
+    color: blanchedalmond;
+    /*position: fixed;*/
+}
+
+body {
+    height: 100%;
+    background: url("../images/בומב.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    font-family: cursive;
+    font-weight: bolder;
+    margin-top: 320px;
+    margin-right: 480px;
+    /* margin-left: 200px; */
+}
+
+h2 {
+    letter-spacing: 7px;
+    text-align: center;
+    color: white;
+    margin-right: 500px;
+}

@@ -1,0 +1,74 @@
+﻿
+td {
+    /*border: 1px solid black;*/
+    width: 50px;
+    height: 50px;
+    border: medium;
+}
+
+button {
+    width: 100%;
+    height: 100%;
+}
+
+#btnStart {
+    width: 250px;
+    height: 250px;
+    background-color: yellowgreen;
+    border: solid;
+    border-color: black;
+    position: fixed;
+    margin-top: 140px;
+    border-width: 7px;
+}
+
+#timer {
+    width: 237px;
+    height:40px;
+    border: solid;
+    border-color:black;
+    margin-top: 70px;
+    position: fixed;
+    border-width: 7px;
+    text-align:center;
+}
+
+.bb {
+    border: solid;
+    border-color: black;
+    background-color: yellowgreen;
+}
+
+#DivForPlay {
+    border-color: crimson;
+}
+
+body {
+    direction: rtl;
+    background-color: seashell;
+}
+
+table {
+    margin: auto;
+ /* margin-top: 50px;*/
+}
+/* p{
+    color: yellowgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  */
+/* design{
+    margin-left: auto;
+    color: yellowgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}  */
+#design {
+    margin-right: 560px;
+    color: yellowgreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-weight: bolder; */
+    font-size: xx-large;
+}
+
+#enjoy {
+    margin-right: 140px;
+}
